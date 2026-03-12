@@ -112,3 +112,37 @@ audio {
 audio:focus {
     outline: none;
 }
+
+#logo {
+    text-transform: uppercase;
+    text-decoration: none;
+    color:beige;
+    font-weight: bold;
+    line-height: 100px;
+    font-size: 24px;
+
+    display: inline-block;
+
+}
+
+.pink {
+    color: #ffc0cb;
+}
+
+.footer_block,
+.footer_icons {
+display: inline-block;
+width: 335px;
+vertical-align: middle;
+}
+.footer_icons{
+    text-align: right;
+}
+.footer_block {
+    text-transform: uppercase;
+
+}
+.footer_img {
+    width: 50px;
+    margin-left: 10px;
+}
